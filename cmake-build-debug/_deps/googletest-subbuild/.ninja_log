@@ -1,0 +1,41 @@
+# ninja log v5
+1	50	1665338394507883795	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	ed2b59028b85647
+3161	3204	1665338397662269377	/Users/evan/CLionProjects/ITMO/Programming labs/labwork2-ewvan/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	72eb8f450171cf5f
+1	50	1665338394507883795	/Users/evan/CLionProjects/ITMO/Programming labs/labwork2-ewvan/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	ed2b59028b85647
+50	2912	1665338397369646835	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	1e49307179433b25
+3204	3264	1665338397722830890	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	2538b0edd55d2362
+50	2912	1665338397369646835	/Users/evan/CLionProjects/ITMO/Programming labs/labwork2-ewvan/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	1e49307179433b25
+2995	3035	1665338397493239120	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	c83c7f03cc5d116e
+2912	2995	0	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	21a4c663045fb470
+2912	2995	0	/Users/evan/CLionProjects/ITMO/Programming labs/labwork2-ewvan/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	21a4c663045fb470
+3035	3077	1665338397535585338	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	ad0566d29f16b03
+3078	3121	1665338397577723214	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	a20b91e79d3d964c
+3078	3121	1665338397577723214	/Users/evan/CLionProjects/ITMO/Programming labs/labwork2-ewvan/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	a20b91e79d3d964c
+3204	3264	1665338397722830890	/Users/evan/CLionProjects/ITMO/Programming labs/labwork2-ewvan/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	2538b0edd55d2362
+3035	3077	1665338397535585338	/Users/evan/CLionProjects/ITMO/Programming labs/labwork2-ewvan/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	ad0566d29f16b03
+3121	3161	1665338397619605006	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	b0836ae8c74a97a4
+2995	3035	1665338397493239120	/Users/evan/CLionProjects/ITMO/Programming labs/labwork2-ewvan/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	c83c7f03cc5d116e
+3204	3264	1665338397722830890	/Users/evan/CLionProjects/ITMO/Programming labs/labwork2-ewvan/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	2538b0edd55d2362
+3121	3161	1665338397619605006	/Users/evan/CLionProjects/ITMO/Programming labs/labwork2-ewvan/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	b0836ae8c74a97a4
+3161	3204	1665338397662269377	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	72eb8f450171cf5f
+3204	3264	1665338397722830890	CMakeFiles/googletest-populate-complete	2538b0edd55d2362
+0	70	1665638142889452000	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	51c341b0d1df430
+0	70	1665638142889452000	/Users/evan/CLionProjects/ITMO/Programming labs/labwork2-ewvan/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	51c341b0d1df430
+70	13078	1665638155898190000	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	9c1beccf958a57a9
+70	13078	1665638155898190000	/Users/evan/CLionProjects/ITMO/Programming labs/labwork2-ewvan/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	9c1beccf958a57a9
+13079	13230	0	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	e443e2b7c3d4d5
+13079	13230	0	/Users/evan/CLionProjects/ITMO/Programming labs/labwork2-ewvan/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	e443e2b7c3d4d5
+13231	13303	1665638156123040000	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	4a68a5c17a14ff2c
+13231	13303	1665638156123040000	/Users/evan/CLionProjects/ITMO/Programming labs/labwork2-ewvan/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	4a68a5c17a14ff2c
+13303	13375	1665638156195361000	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	53abbf5b39dc6a3f
+13303	13375	1665638156195361000	/Users/evan/CLionProjects/ITMO/Programming labs/labwork2-ewvan/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	53abbf5b39dc6a3f
+13376	13445	1665638156264219000	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	f6d83f27d781ec74
+13376	13445	1665638156264219000	/Users/evan/CLionProjects/ITMO/Programming labs/labwork2-ewvan/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	f6d83f27d781ec74
+13445	13515	1665638156332818000	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	411417103c5e47d0
+13445	13515	1665638156332818000	/Users/evan/CLionProjects/ITMO/Programming labs/labwork2-ewvan/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	411417103c5e47d0
+13516	13588	1665638156407524000	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	2a751523749bbf60
+13516	13588	1665638156407524000	/Users/evan/CLionProjects/ITMO/Programming labs/labwork2-ewvan/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	2a751523749bbf60
+13588	13690	1665638156509405000	CMakeFiles/googletest-populate-complete	4f4e3ef59d00e059
+13588	13690	1665638156509405000	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	4f4e3ef59d00e059
+13588	13690	1665638156509405000	/Users/evan/CLionProjects/ITMO/Programming labs/labwork2-ewvan/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	4f4e3ef59d00e059
+13588	13690	1665638156509405000	/Users/evan/CLionProjects/ITMO/Programming labs/labwork2-ewvan/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	4f4e3ef59d00e059

@@ -1,0 +1,11 @@
+# ninja log v5
+6	1228	1665342107670137621	lib/CMakeFiles/number.dir/number.cpp.o	c266ff0b57ab28f8
+1229	1290	1665342107745649000	lib/libnumber.a	98a98bf743f870a6
+7	3700	1665341879048121183	tests/CMakeFiles/number_tests.dir/number_test.cpp.o	8164252963ad8499
+1290	1736	1665342108190635077	tests/number_tests[1]_tests.cmake	64c236973b987d45
+8653	8763	1665338538197837000	lib/libgtest.a	8274a5f70ec99861
+8763	8820	1665338538253734000	lib/libgtest_main.a	16f753fcdfc40cf9
+1290	1736	1665342108190635077	/Users/evan/CLionProjects/ITMO/Programming labs/labwork2-ewvan/cmake-build-debug/tests/number_tests[1]_tests.cmake	64c236973b987d45
+6	4404	1665338533818842329	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	6619894a4f4bc179
+4	8652	1665338538062174325	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	1ee7216ed7c73be4
+1290	1736	1665342108190635077	tests/number_tests	64c236973b987d45
